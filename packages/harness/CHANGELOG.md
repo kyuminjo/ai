@@ -1,5 +1,11 @@
 # @ai-sdk/harness
 
+## 1.0.175
+
+### Patch Changes
+
+- 8e8033a: fix(harness): avoid deadlock on host tool approval pauses
+
 ## 1.0.174
 
 ### Patch Changes
